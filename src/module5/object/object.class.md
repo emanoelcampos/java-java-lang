@@ -1,4 +1,4 @@
-# Classe Object
+# Classe `Object`
 A classe Object é uma classe fundamental na linguagem de programação Java. Ela é a superclasse de todas as outras classes em Java e fornece um conjunto básico de comportamentos e funcionalidades que são comuns a todos os objetos.
 
 ## Aqui estão as principais características da classe Object:
